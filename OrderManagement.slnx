@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/Common/">
+    <File Path=".env" />
+    <File Path="docker-compose.yml" />
+  </Folder>
   <Folder Name="/NotificationService/">
     <Project Path="src/backend/NotificationService/NotificationService.Api/NotificationService.Api.csproj" Id="f62b3891-367c-43ec-b137-2fa208b041bd" />
     <Project Path="src/backend/NotificationService/NotificationService.Application/NotificationService.Application.csproj" Id="5b328798-b7c2-4c40-8353-f35440173f6c" />
