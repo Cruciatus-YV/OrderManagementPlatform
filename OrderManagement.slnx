@@ -1,0 +1,34 @@
+<Solution>
+  <Folder Name="/NotificationService/">
+    <Project Path="src/backend/NotificationService/NotificationService.Api/NotificationService.Api.csproj" Id="f62b3891-367c-43ec-b137-2fa208b041bd" />
+    <Project Path="src/backend/NotificationService/NotificationService.Application/NotificationService.Application.csproj" Id="5b328798-b7c2-4c40-8353-f35440173f6c" />
+    <Project Path="src/backend/NotificationService/NotificationService.Domain/NotificationService.Domain.csproj" Id="504b984d-e774-4a2e-bd21-f4d3430eab4b" />
+    <Project Path="src/backend/NotificationService/NotificationService.Infrastructure/NotificationService.Infrastructure.csproj" Id="a61e6d6b-bff3-4b12-b601-75d60c8b1f96" />
+  </Folder>
+  <Folder Name="/OrderService/">
+    <Project Path="src/backend/OrderService/OrderService.Api/OrderService.Api.csproj" Id="abdc96a3-02b3-47e6-9f09-d2c3ded476d2" />
+    <Project Path="src/backend/OrderService/OrderService.Application/OrderService.Application.csproj" Id="8d7fd506-a3a5-407d-8d05-f437dcf4db0b" />
+    <Project Path="src/backend/OrderService/OrderService.Domain/OrderService.Domain.csproj" Id="e4a59f4e-a711-44b5-96b6-e8fe0c89060f" />
+    <Project Path="src/backend/OrderService/OrderService.Infrastructure/OrderService.Infrastructure.csproj" Id="7887ef7d-2976-417b-990b-b3d897a294ba" />
+  </Folder>
+  <Folder Name="/PaymentService/">
+    <Project Path="src/backend/PaymentService/PaymentService.Api/PaymentService.Api.csproj" Id="fca4452c-0fe3-4131-a873-a24a53aececc" />
+    <Project Path="src/backend/PaymentService/PaymentService.Application/PaymentService.Application.csproj" Id="dd12e2f4-d41e-48b4-95d4-df5076cab3d4" />
+    <Project Path="src/backend/PaymentService/PaymentService.Domain/PaymentService.Domain.csproj" Id="247a84fc-3c3c-48f3-a8ee-c3c55a8f9c50" />
+    <Project Path="src/backend/PaymentService/PaymentService.Infrastructure/PaymentService.Infrastructure.csproj" Id="a5f9760c-985b-4807-8b3e-f0908b5a789d" />
+  </Folder>
+  <Folder Name="/ProductService/">
+    <Project Path="src/backend/ProductService/ProductService.Api/ProductService.Api.csproj" Id="fe5e2051-3c8b-47aa-9553-526608e31f8a" />
+    <Project Path="src/backend/ProductService/ProductService.Application/ProductService.Application.csproj" Id="62378ae3-831b-4b37-a4d5-ada65e2801cb" />
+    <Project Path="src/backend/ProductService/ProductService.Domain/ProductService.Domain.csproj" Id="30d42e04-2479-4469-a012-4e42279cd887" />
+    <Project Path="src/backend/ProductService/ProductService.Infrastructure/ProductService.Infrastructure.csproj" Id="27eee802-61ba-4d3d-b275-a5c35c30560a" />
+  </Folder>
+  <Folder Name="/UserService/">
+    <Project Path="src/backend/UserService/UserService.Api/UserService.Api/UserService.Api.csproj" Id="06a4d4c9-fe5b-4ab0-89ba-44c457c0224f" />
+    <Project Path="src/backend/UserService/UserService.Application/UserService.Application.csproj" Id="a26b6546-d9e4-47a2-a15b-98bad029b240" />
+    <Project Path="src/backend/UserService/UserService.Domain/UserService.Domain.csproj" Id="fa3cbbb1-4dca-4a9c-a718-f459efda4702" />
+    <Project Path="src/backend/UserService/UserService.Infrastructure/UserService.Infrastructure.csproj" Id="2a71bc11-2efa-4aaa-ae22-911b5264fcce" />
+  </Folder>
+  <Project Path="src/backend/Gateway/Gateway/Gateway.csproj" Id="f25ccdbd-a28a-481f-8506-7f42cb5f4c6e" />
+  <Project Path="src/backend/Shared/Shared/Shared.csproj" Id="774cd2e3-35a0-4bea-8888-e4d5e720f254" />
+</Solution>
